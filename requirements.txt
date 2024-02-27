@@ -1,0 +1,9 @@
+numpy
+matplotlib
+gstools
+lhsmdu
+pandas
+scikit-learn
+
+ipython
+ipykernel
